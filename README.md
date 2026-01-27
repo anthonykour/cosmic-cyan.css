@@ -12,7 +12,7 @@ Installation:
 Use any CSS injector to apply the theme to music.youtube.com and its sublinks.
 
 Youtube Music Desktop App (th-ch)
-Choose the theme you like, and copy its contents locally, or clone the entire repo.
+Choose the theme you like, and download the css file.
 
 Assuming you have the latest build with the theme selection menu, open the app, click Options: 
 
