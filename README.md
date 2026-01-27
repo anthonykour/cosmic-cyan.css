@@ -15,6 +15,7 @@ Youtube Music Desktop App (th-ch)
 Choose the theme you like, and copy its contents locally, or clone the entire repo.
 
 Assuming you have the latest build with the theme selection menu, open the app, click Options: 
+
 Go to Visual Tweaks > Theme > Import custom CSS file, and choose the CSS file you want to apply.
 
 Youtube Music Desktop App (adlerluiz)
