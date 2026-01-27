@@ -20,7 +20,9 @@ Go to Visual Tweaks > Theme > Import custom CSS file, and choose the CSS file yo
 
 Youtube Music Desktop App (adlerluiz)
 Click the theme from the list above and then download the css.
+
 Navigate to the settings of the Youtube Music Desktop App.
+
 Go to the appearances tab and turn on custom theme.
 Click on the pencil icon to open up the editor window.
 Paste in the code and press the save button.
