@@ -1,5 +1,6 @@
 YouTube Music CSS Theme
 Based off the Various Youtube Music CSS Themes made by OceanicSquirrel.
+
 This one is my personal edit of the "Eggplant" theme.
 
 Current theme available:
