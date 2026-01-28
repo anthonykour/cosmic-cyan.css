@@ -1,35 +1,47 @@
-YouTube Music CSS Theme
-Based off the Various Youtube Music CSS Themes made by OceanicSquirrel.
+# YouTube Music CSS Theme
 
-This one is my personal edit of the "Eggplant" theme.
+Based off the various YouTube Music CSS themes made by **OceanicSquirrel**.
 
-Current theme available:
+This is my personal edit of the **Eggplant** theme.
 
-Cosmic Cyan
+---
 
+## Current Theme Available
 
-Installation:
-Use any CSS injector to apply the theme to music.youtube.com and its sublinks.
+**Cosmic Cyan**
 
-Youtube Music Desktop App (th-ch)
-Choose the theme you like, and download the css file.
+---
 
-Assuming you have the latest build with the theme selection menu, open the app, click Options: 
+## Installation
 
-Go to Visual Tweaks > Theme > Import custom CSS file, and choose the CSS file you want to apply.
+Use any CSS injector to apply the theme to `music.youtube.com` and its sublinks.
 
-Youtube Music Desktop App (adlerluiz)
-Click the theme from the list above and then download the css.
+---
 
-Navigate to the settings of the Youtube Music Desktop App.
+## YouTube Music Desktop App (th-ch)
 
-Go to the appearances tab and turn on custom theme.
+1. Choose the theme you like and download the CSS file.  
+2. Open the app and click **Options**.  
+3. Go to:  
+   **Visual Tweaks → Theme → Import custom CSS file**  
+4. Select the CSS file you downloaded.
 
-Click on the pencil icon to open up the editor window.
-Paste in the code and press the save button.
+---
 
-Themes:
+## YouTube Music Desktop App (adlerluiz)
 
-# cosmic-cyan.css
+1. Click the theme from the list above and download the CSS file.  
+2. Open the **Settings** in YouTube Music Desktop App.  
+3. Go to the **Appearance** tab and enable **Custom theme**.  
+4. Click the **pencil icon** to open the editor window.  
+5. Paste in the CSS code and click **Save**.
+
+---
+
+## Themes
+
+### `cosmic-cyan.css`
+
 A theme for the Pear Desktop app.
+
 <img width="1536" height="1024" alt="preview" src="https://github.com/user-attachments/assets/e923fa33-485c-41eb-996f-6a7c46936c02" />
