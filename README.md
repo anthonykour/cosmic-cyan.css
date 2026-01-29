@@ -1,8 +1,8 @@
 # YouTube Music CSS Theme
 
-Based off the various YouTube Music CSS themes made by **[OceanicSquirrel]([url](https://github.com/OceanicSquirrel))**.
+Based off the various YouTube Music CSS themes made by **[OceanicSquirrel]([(https://github.com/OceanicSquirrel)])**.
 
-This is my personal edit of the **[Eggplant]([url](https://github.com/OceanicSquirrel/themes-for-ytmdesktop-player/tree/main#eggplant))** theme.
+This is my personal edit of the **[Eggplant]([(https://github.com/OceanicSquirrel/themes-for-ytmdesktop-player/tree/main#eggplant)])** theme.
 
 ---
 
@@ -18,7 +18,7 @@ Use any CSS injector to apply the theme to `music.youtube.com` and its sublinks.
 
 ---
 
-## [YouTube Music Desktop App]([url](https://github.com/pear-devs/pear-desktop)) (th-ch)
+## [YouTube Music Desktop App]([(https://github.com/pear-devs/pear-desktop)]) (th-ch)
 
 1. Choose the theme you like and download the CSS file.  
 2. Open the app and click **Options**.  
@@ -28,7 +28,7 @@ Use any CSS injector to apply the theme to `music.youtube.com` and its sublinks.
 
 ---
 
-## [YouTube Music Desktop App]([url](https://github.com/ytmdesktop/ytmdesktop)) (adlerluiz)
+## [YouTube Music Desktop App]([(https://github.com/ytmdesktop/ytmdesktop)]) (adlerluiz)
 
 1. Click the theme from the list above and download the CSS file.  
 2. Open the **Settings** in YouTube Music Desktop App.  
