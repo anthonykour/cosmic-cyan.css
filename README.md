@@ -44,4 +44,4 @@ Use any CSS injector to apply the theme to `music.youtube.com` and its sublinks.
 
 A theme for the Pear Desktop app.
 
-<img width="1536" height="1024" alt="preview" src="https://github.com/user-attachments/assets/e923fa33-485c-41eb-996f-6a7c46936c02" />
+<img width="1172" height="899" alt="Screenshot 2026-01-29 103447" src="https://github.com/user-attachments/assets/c384d991-fb9c-4271-adab-07e21a71d4f3" />
