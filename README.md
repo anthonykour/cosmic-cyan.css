@@ -2,7 +2,7 @@
 
 Based off the various YouTube Music CSS themes made by **[OceanicSquirrel](https://github.com/OceanicSquirrel)**.
 
-Maintained fork for these themes is avaible here: **[kerichdev](https://github.com/kerichdev/themes-for-ytmdesktop-player)**. 
+Maintained fork for these themes is avaible here: **[themes-for-ytmdesktop-player](https://github.com/kerichdev/themes-for-ytmdesktop-player)**. 
 
 This is my personal edit of the **[Eggplant](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#eggplant)** theme.
 
